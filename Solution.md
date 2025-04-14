@@ -101,7 +101,7 @@ ssh -T git@github.com-personal
 
 ```
 
-📥 Paso 5: Clonar el Repositorio Remoto con SSH (usando Equipo)
+### 📥 Paso 5: Clonar el Repositorio Remoto con SSH (usando Equipo)
 
 Abre la carpeta donde trabajaras con tu proyecto (Repositorio remoto) 
 
